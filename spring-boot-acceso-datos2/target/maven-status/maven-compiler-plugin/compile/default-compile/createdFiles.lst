@@ -1,0 +1,11 @@
+com\prueba\datos\app\models\service\UploadFileServiceImpl.class
+com\prueba\datos\app\MvcConfig.class
+com\prueba\datos\app\models\service\IUploadFileService.class
+com\prueba\datos\app\util\paginator\PageRender.class
+com\prueba\datos\app\models\service\IClienteService.class
+com\prueba\datos\app\SpringBootAccesoDatos2Application.class
+com\prueba\datos\app\models\entity\Cliente.class
+com\prueba\datos\app\models\service\ClienteServiceImpl.class
+com\prueba\datos\app\util\paginator\PageItem.class
+com\prueba\datos\app\controllers\ClienteController.class
+com\prueba\datos\app\models\dao\IClienteDao.class

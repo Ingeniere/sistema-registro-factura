@@ -1,0 +1,11 @@
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\controllers\ClienteController.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\util\paginator\PageRender.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\service\UploadFileServiceImpl.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\entity\Cliente.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\MvcConfig.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\service\IClienteService.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\service\IUploadFileService.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\SpringBootAccesoDatos2Application.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\service\ClienteServiceImpl.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\util\paginator\PageItem.java
+I:\spring-boot-acceso-datos2\src\main\java\com\prueba\datos\app\models\dao\IClienteDao.java
